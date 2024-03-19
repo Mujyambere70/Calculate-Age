@@ -27,6 +27,6 @@ $ python calculate.py
     XYZ's age is 33 years or 406 months or 12328 days
 ```
 
-## *Author Name*
+## *Author Name:*
 
-[Yash Upadhyay](https://github.com/xlo-u)
+[Mujyambere Jean Michel](https://github.com/Mujyambere70)
